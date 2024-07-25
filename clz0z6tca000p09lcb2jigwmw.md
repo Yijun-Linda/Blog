@@ -1,7 +1,7 @@
 ---
 title: "Adventure X 2024 - My first Hackathon"
 seoTitle: "My first Adventure X 2024 Hackathon in China"
-seoDescription: "AI marketing tools, Our poster was entirely created using DALL·E 3 and Midjourney. Our commercial video also uses the power of AI. "
+seoDescription: "AI marketing tools, Our poster was entirely created using DALL·E 3 and Midjourney. Our commercial video also uses the power of AI."
 datePublished: Thu Jul 25 2024 07:52:12 GMT+0000 (Coordinated Universal Time)
 cuid: clz0z6tca000p09lcb2jigwmw
 slug: adventure-x-2024-my-first-hackathon
