@@ -5,6 +5,7 @@ seoDescription: "AI marketing tools, Our poster was entirely created using DALLÂ
 datePublished: Thu Jul 25 2024 07:52:12 GMT+0000 (Coordinated Universal Time)
 cuid: clz0z6tca000p09lcb2jigwmw
 slug: adventure-x-2024-my-first-hackathon
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722513238948/504d8282-ddea-480d-b33f-fa58d6dcabf8.jpeg
 tags: hackathon, ai, ai-tools
 
 ---
