@@ -62,7 +62,7 @@ Yes! We got the prizes!
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721890979122/59745906-4b6a-4a4f-b032-11675b0fb034.jpeg align="center")
 
-Awards: 2nd Prize sponsored by AWS Cloud ( 15,000 USD Credits), 3rd Prize sponsored by Moonshot AI (25 million Tokens = ￥1,500), 3rd Prize sponsored by Light Year AI (￥1,000).
+Awards: 2nd Prize sponsored by AWS Cloud ( 15,000 USD Credits), 3rd Prize sponsored by Moonshot AI (25 million Tokens), 3rd Prize sponsored by Light Year AI.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721890463262/26c24b2c-b189-4657-8468-c1c6ee625084.jpeg align="center")
 
