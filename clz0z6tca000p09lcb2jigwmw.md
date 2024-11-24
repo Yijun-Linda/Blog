@@ -10,7 +10,7 @@ tags: hackathon, ai, ai-tools
 
 ---
 
-A*dventureX is a movement. Be part of the future.*
+*AdventureX is a movement. Be part of the future.*
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721890669635/867b2777-eae8-4e74-96ff-46fd7d392276.jpeg align="center")
 
@@ -20,7 +20,7 @@ AdventureX 2024 Hackathon, is the ONLY premier hackathon in China for creative m
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721891014949/d8b52432-1f4e-477d-93cf-873c47583906.jpeg align="center")
 
-I connected with top talents in the field of AIx and LLM agents. I am so proud of joining this hackathon, which had an enrollment rate of only 13%. This means that out of more than 2,000 candidates, only 200 top talents were selected for inspiration and collaboration.
+I connected with top talents in the field of AIx and LLM agents. I am so proud of joining this hackathon, which had an enrollment rate of only 13%. This means that out of more than 2,000 candidates, only 200 top talents were selected for inspiration and collaboration, and most of them are from Tsinghua University, and Peking University.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721890721132/002fe42a-facc-4a33-bb8d-8173492ac040.jpeg align="center")
 
