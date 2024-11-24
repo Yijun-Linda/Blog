@@ -10,7 +10,7 @@ tags: hackathon, ai, ai-tools
 
 ---
 
-*AdventureX is a movement. Be part of the future.*
+*Adventure X is a movement. Be part of the future.*
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721890669635/867b2777-eae8-4e74-96ff-46fd7d392276.jpeg align="center")
 
