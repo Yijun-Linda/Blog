@@ -16,6 +16,8 @@ tags: hackathon, ai, ai-tools
 
 To wrap up my 2024, one of the highlights has undoubtedly been my first-ever experience at a hackathon—AdventureX 2024.
 
+[My Shorts on Youtube](https://www.youtube.com/shorts/8kXx1Q5ZAao?feature=share)
+
 You might be wondering what is AdventureX.
 
 AdventureX 2024 Hackathon, is the ONLY premier hackathon in China for creative minds and tech enthusiasts!
