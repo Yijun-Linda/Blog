@@ -155,6 +155,8 @@ True experts **won't wait for others to tell them what to do but will actively t
 
 If you can master these ways of thinking, **whether in the workplace or in future entrepreneurship, you can solve problems more efficiently!**
 
+![Chinese startup releases AI agent Manus - CGTN](https://news.cgtn.com/news/2025-03-06/Chinese-startup-releases-AI-agent-Manus-1BwL79YE7pS/img/9f8c8f59f4374c749523ceeef936d2bf/9f8c8f59f4374c749523ceeef936d2bf.jpeg align="left")
+
 # 如何从模糊问题到高质量分析？——从 Manus 里学到的职场必备思维
 
 在职场中，你有没有遇到过这样的情况？
