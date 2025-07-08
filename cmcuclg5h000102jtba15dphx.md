@@ -5,6 +5,7 @@ seoDescription: "Manage emotions and understand perspectives to balance control 
 datePublished: Tue Jul 08 2025 09:48:59 GMT+0000 (Coordinated Universal Time)
 cuid: cmcuclg5h000102jtba15dphx
 slug: navigating-control-conflict-and-care-lessons-from-a-rushing-travel-plan
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qE1Y8GQKhEk/upload/1fc1a639d23d533d5671968905280342.jpeg
 tags: journal, self-improvement-1
 
 ---
