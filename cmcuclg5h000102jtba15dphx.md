@@ -76,3 +76,9 @@ Travel is just a surface-level phenomenon.
 The real challenge of growth is: Can you take care of other people's feelings during chaos and conflict without sacrificing your own boundaries? You're already on this path and very aware of it.
 
 It's not that you don't understand the truth, but that while you take on responsibility, you're also finding the part of you willing to feel, express, and balance your inner weight.
+
+Wrote on June 19, 2025
+
+---
+
+I was surprised to find that I wrote, “what affected my mood was the loss of control brought about by the breaking of plans” in my 2022 diary.
