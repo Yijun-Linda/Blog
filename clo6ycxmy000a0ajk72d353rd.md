@@ -16,7 +16,17 @@ tags: design, iot, machine
 
 Automatic IoT bath shower machine to help the elderly bathe
 
+Our ideal prototype
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1768738746388/50dc095d-7d7a-4d30-8762-f0092bbec33a.jpeg align="center")
+
 ![](https://media.licdn.com/dms/image/D4E2DAQFFGAVlY_Ac9Q/profile-treasury-image-shrink_1920_1920/0/1697025347318?e=1698915600&v=beta&t=3dC6LNFjS6HY5EaNd2BnV272Bvg0fDiQvuf9aLBWV2U align="left")
+
+Our Proof of Concept Version 2.0
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1768738824886/714ab1ff-6ed0-470a-a2a2-95b34261c483.jpeg align="center")
+
+My role
 
 \- Conducted research to identify the most suitable material for machine casting and performed feasibility analyses and tests using metal sheets for construction (plastic granules: Acrylic, PVC, and PP).  
 \- Integrated system design approaches (TRIZ, QFD) and developed practical solutions.  
