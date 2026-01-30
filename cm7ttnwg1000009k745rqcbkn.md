@@ -4,9 +4,9 @@ seoTitle: "Experiencing Shanghai International Arts Festival"
 seoDescription: "Five-month project coordinator at China Shanghai International Arts Festival; gained project management, budgeting, and creative design skills"
 datePublished: Fri Nov 29 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm7ttnwg1000009k745rqcbkn
-slug: 5-months-with-china-shanghai-international-arts-festival
+slug: 5-months-with-china-shanghai-international-arts
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741052301562/85e38d7e-394f-4773-93ce-92e1f6a76034.jpeg
-tags: art, events
+tags: events, stakeholdermanagement
 
 ---
 
