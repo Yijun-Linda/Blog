@@ -4,7 +4,7 @@ seoTitle: "The Governance Score have excess returns over the long term in the ES
 seoDescription: "The Governance Score is often viewed as the most crucial and can be a crucial driver of excess returns over the long term in the ESG sector and sustainable"
 datePublished: Thu Feb 16 2023 00:23:52 GMT+0000 (Coordinated Universal Time)
 cuid: clenic8kd000008mj8zsxd7u4
-slug: the-governance-score-have-excess-returns-over-the-long-term-in-the-esg-sector-and-sustainable-finance
+slug: the-governance-score-have-excess-returns-over-the-long-term-in-the-esg-sector-and-sustainabl
 canonical: https://www.linkedin.com/posts/yijunzhang99_esg-investments-sustainablefinance-activity-7032108861738127360-6SJ5?utm_source=share&utm_medium=member_desktop
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/x2Tmfd1-SgA/upload/b2f376bdc830f4e8829a580d8b78785e.jpeg
 tags: business, finance, investment, sustainable-finance
