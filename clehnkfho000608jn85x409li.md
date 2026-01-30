@@ -4,7 +4,7 @@ seoTitle: "The relationship between ESG scores and the fund performance of mutua
 seoDescription: "ESG scores or investment returns of these funds after they subscribed. the ESG performance of these funds was not much different"
 datePublished: Mon Feb 13 2023 22:04:50 GMT+0000 (Coordinated Universal Time)
 cuid: clehnkfho000608jn85x409li
-slug: the-relationship-between-esg-scores-and-the-fund-performance-of-mutual-funds-was-not-much-different-at-all
+slug: the-relationship-between-esg-scores-and-the-fund-performance-of-mutual-funds-was-not-much-differe
 canonical: https://www.linkedin.com/posts/yijunzhang99_esg-investment-sustainableinvesting-activity-7031395468077068289-WIy0?utm_source=share&utm_medium=member_desktop
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uJhgEXPqSPk/upload/1da6d8628fec026a7173b820aaef7667.jpeg
 tags: future, investment, investing, esg
