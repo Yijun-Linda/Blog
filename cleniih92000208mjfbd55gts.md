@@ -4,7 +4,7 @@ seoTitle: "Social capital plays a critical role in sustainable finance"
 seoDescription: "Social capital is composed of compliance and trust within a society, and sustainable finance entails making financial decisions with long-term environmental"
 datePublished: Thu Feb 16 2023 00:30:04 GMT+0000 (Coordinated Universal Time)
 cuid: cleniih92000208mjfbd55gts
-slug: social-capital-plays-a-critical-role-in-the-pursuit-of-sustainable-finance-and-impact-investing
+slug: social-capital-plays-a-critical-role-in-the-pursuit-of-sustainable-finance-and-impact-
 canonical: https://www.linkedin.com/posts/yijunzhang99_sustainablefinance-compliance-society-activity-7032479427049512960-k8BM?utm_source=share&utm_medium=member_desktop
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Qr0Dvl8YQtU/upload/c9b9cdcc56afd527fd8354f0fd892ad2.jpeg
 tags: business, finance, investing, sustainable-finance
